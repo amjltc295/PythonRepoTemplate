@@ -22,12 +22,13 @@ source activate <environemnt name>
 
 ## Repository Structure
 ```
-├── .gitignore              Filenames in this file would be ignored by Git
 ├── .flake8                 Syntax and style settings for Flake8
+├── .gitignore              Filenames in this file would be ignored by Git
 ├── .travis.yml             For Travis CI configuration
 ├── environment.yaml        For Conda environment
 ├── README.md
 ├── LICENSE                 LICENSE file (MIT license here)
+├── .github/                For the PR template
 ├── tests/                  For tests
 ├── lib/                    For third-party libraries
 └── src/                    For source code
