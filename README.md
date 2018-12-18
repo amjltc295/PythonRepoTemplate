@@ -2,6 +2,8 @@
 
 Python repository template with Travis CI, Conda environment, .gitigone, Flake8 and PR template
 
+You could simply clone this repository and start your project.
+
 ## Installation
 
 1. Install miniconda/anaconda, a package for  package/environment management
